@@ -2,7 +2,7 @@ Link : https://my-mortgage-calculator.netlify.app/
 
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![ScreenShot--1](https://github.com/kawthar-bensalah/Mortgage-Calculator/blob/main/Screenshot%20from%202023-09-09%2020-27-28.png)
 
 
 # Getting Started with Create React App
