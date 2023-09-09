@@ -1,4 +1,4 @@
-Link : my-mortgage-calculator.netlify.app
+Link : https://my-mortgage-calculator.netlify.app/
 
 
 # Getting Started with Create React App
